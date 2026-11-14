@@ -1,0 +1,6 @@
+{
+  "name": "FitFuel Fitness | Luxury Athletic Club",
+  "description": "Cinematic, luxury fitness club experience inspired by Equinox and Third Space. Where fitness meets lifestyle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
